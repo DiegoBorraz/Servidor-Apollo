@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "apollo-server": "^2.9.15",
+    "graphql": "^14.5.8",
+    "graphql-tools": "^4.0.6",
+    "knex": "^0.20.6",
+    "merge-graphql-schemas": "^1.7.5",
+    "mysql": "^2.17.1",
+    "mysql2": "^2.1.0"
+  }
+}
